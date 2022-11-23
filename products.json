@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone X",
+    "price": 299,
+    "shortdescription": "iPhone X introduces a revolutionary design with a stunning all-screen display that precisely follows the curve of the device, clear to the elegantly rounded corners.",
+    "image" : "/img1.webp"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 11",
+    "price": 299,
+    "shortdescription": "Apple iPhone 11 is available in the market in exciting colours of Red, Yellow, White, Green, Purple and Black. From the inside, the brand has installed a great suite of specifications that offer an amazing operational experience to individual users.",
+    "image" : "/img2.webp"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 11 Pro",
+    "price": 499,
+    "shortdescription": "The iPhone 11 Pro features Triple 12 MP Ultra Wide (13mm), Wide (26mm) and Telephoto (52mm) cameras. The Ultra wide camera provides 120° field of view, letting you capture four times more scene, and the wide camera provides 100% Focus Pixels and Optical image stabilisation and the telephoto camera comes with an f/2.0 aperture and 2x optical zoom.",
+    "image" : "/img3.webp"
+  }
+]
